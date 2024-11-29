@@ -11,9 +11,7 @@ import parse_bo
 
 
 # url_stream = 'https://www.youtube.com/live/hg4jV_kXw68'
-# url_stream = 'https://rus.bongacams16.com/redfury69'
-url_stream = 'https://rus.bongacams16.com/pasha0864'
-# url_stream = 'https://rus.bongacams16.com/taanni'
+
 attempt = 0
 
 
